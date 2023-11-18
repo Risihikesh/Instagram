@@ -1,0 +1,55 @@
+[
+    {
+      "postId": "5",
+      "username": "user1",
+      "likes": [],
+      "caption": "Beautiful sunset view. #nature #sunset",
+      "imageUrl": "https://t3.ftcdn.net/jpg/05/68/52/52/240_F_568525285_CrGJ8Yh1noTyqu6QsocfVeGQGY91E0Jb.jpg",
+      "comments": [
+        { "username": "commenter1", "text": "Amazing photo!" },
+        { "username": "commenter2", "text": "Love the colors!" }
+      ]
+    },
+    {
+      "postId": "4",
+      "username": "user2",
+      "likes": [],
+      "caption": "Exploring new places. #travel",
+      "imageUrl": "https://cdn.britannica.com/84/73184-050-05ED59CB/Sunflower-field-Fargo-North-Dakota.jpg?w=400&h=300&c=crop",
+      "comments": [
+        { "username": "commenter3", "text": "Wish I could be there!" }
+      ]
+    },
+    {
+      "postId": "3",
+      "username": "user3",
+      "likes": [],
+      "caption": "Delicious homemade food. #foodie",
+      "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/f4/fc/e1/traditional-arroz-con.jpg",
+      "comments": [
+        { "username": "commenter4", "text": "Yum! Recipe please?" },
+        { "username": "commenter5", "text": "Looks delicious!" }
+      ]
+    },
+    {
+      "postId": "2",
+      "username": "user4",
+      "likes": [],
+      "caption": "Chilling at the beach. #beachlife",
+      "imageUrl": "https://www.goatsontheroad.com/wp-content/uploads/2015/07/27-Epic-Beach-Destinations-That-Should-Be-On-Your-Chill-Out-Checklist.jpg",
+      "comments": [
+        { "username": "commenter6", "text": "So relaxing!" }
+      ]
+    },
+    {
+      "postId": "1",
+      "username": "user5",
+      "likes": [],
+      "caption": "Coding all day. #developer",
+      "imageUrl": "https://i.pinimg.com/1200x/8f/92/ed/8f92ed8db29eee209b9a7439f6a0a09b.jpg",
+      "comments": [
+        { "username": "commenter7", "text": "Code master!" }
+      ]
+    }
+  ]
+  
